@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="personnelSelection">Подбор персонала</string>
+    <string name="exit">Выход</string>
+    <string name="inputName">Введите имя</string>
+    <string name="inputSurname">Введите фамилию</string>
+    <string name="inputAge">Введите возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="role">Должность</string>
+</resources>
